@@ -29,7 +29,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text("Flutter with firebase"),
         backgroundColor: Colors.black,
       ),
-    );
+    ) ;
 
   }
 }
